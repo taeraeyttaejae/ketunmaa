@@ -4,7 +4,7 @@ title: Etusivu
 ---
 
 <div class="hero">
-  <img src="assets/images/hero-ketunmaa.jpg" alt="Ketunmaan kyläyhdistys">
+  <img src="assets/images/usva.jpg" alt="Ketunmaan kyläyhdistys">
 </div>
 
 ## Tervetuloa Ketunmaalle!
