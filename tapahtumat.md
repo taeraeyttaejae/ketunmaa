@@ -10,10 +10,10 @@ Järjestämme vuosittain useita tapahtumia, jotka tuovat kyläläiset yhteen ja 
 ### Tulevat tapahtumat
 
 <div class="event-card">
-  <div class="event-date">📅 xx.2.2026 klo xx:00</div>
   <h3>Piippuhiihot</h3>
-  <p><strong>Paikka:</strong> Kylän yhteinen alue</p>
-  <p>Perinteinen talvitapahtumamme, jota on pidetty vuodesta 19xx saakka! Ohjelmassa:</p>
+  <div class="event-date">📅 xx.2.2026 klo xx:00</div>
+  <p><strong>Paikka:</strong>Rantakylän hiihtostadion</p>
+  <p>Perinteinen talvitapahtumamme, jota on järjestetty vuodesta 19xx saakka! Ohjelmassa:</p>
   <ul>
     <li>Hiihtokisa kaikkien ketunmaan alueen asukkaiden kesken</li>
     <li>Makkaraa grillistä myytävänä</li>
@@ -24,15 +24,15 @@ Järjestämme vuosittain useita tapahtumia, jotka tuovat kyläläiset yhteen ja 
 </div>
 
 <div class="event-card">
+  <h3>Luistelukentän kevätsiivous</h3>
   <div class="event-date">📅 xx.4.2026 klo xx:00</div>
-  <h3>Kevätsiivous</h3>
-  <p><strong>Paikka:</strong> Kokoontuminen kylätalolla</p>
-  <p>Yhdessä siivotaan luistelukentän aluee kevääksi. Mukaan omat hanskat ja jätesäkkejä. Kahvitarjoilu osallistujille.</p>
+  <p><strong>Paikka:</strong> Luistelukentän alue</p>
+  <p>Yhdessä siivotaan luistelukentän alue kevääksi. Mukaan omat hanskat ja jätesäkkejä, harava ei haittaa. Kahvitarjoilu osallistujille.</p>
 </div>
 
 <div class="event-card">
-  <div class="event-date">📅 xx.6.2026 klo 14:00 - 22:00</div>
   <h3>Juuri sinun ideastasi lähteneet Ketunmaan Kesäjuhlat</h3>
+  <div class="event-date">📅 xx.6.2026 klo 14:00 - 22:00</div>
   <p><strong>Paikka:</strong> Jossain mahtavalla paikalla?</p>
   <p>Ideoita otetaan vastaan paikasta, jossa voitaisiin pitää Ketunmaan kesäjuhlat! Talkooväkeä järjestelemään ja siivoamaan varmasti löytyy! Ota yhteyttä hallitukseen, niin ideoidaan yhdessä!</p>
 </div>
@@ -44,7 +44,6 @@ Järjestämme vuosittain useita tapahtumia, jotka tuovat kyläläiset yhteen ja 
   
 **Kesä:**
 - Kesäjuhlat? (kesäkuu)
-- 
 
 ### Menneet tapahtumat
 
