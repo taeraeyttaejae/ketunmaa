@@ -1,3 +1,17 @@
+# Site settings
+title: Ketunmaan - Selkäsenkylän kyläyhdistys ry
+description: Tervetuloa Ketunmaan kyläyhdistyksen kotisivuille
+baseurl: ""
+url: "https://www.ketunmaa.com"
+
+# Remove GitHub links
+show_downloads: false
+github:
+  is_project_page: false
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
-title: Ketunmaan - Selkäsenkylän kyläyhdistys ry kotisivut
-description: Ketunmaan - Selkäsenkylän kyläyhdistys ry kotisivut
+
+# Language
+lang: fi-FI
