@@ -13,21 +13,22 @@ Järjestämme vuosittain useita tapahtumia, jotka tuovat kyläläiset yhteen ja 
   <h3>Piippuhiihot</h3>
   <div class="event-date">📅 xx.2.2026 klo xx:00</div>
   <p><strong>Paikka:</strong>Rantakylän hiihtostadion</p>
-  <p>Perinteinen talvitapahtumamme, jota on järjestetty vuodesta 19xx saakka! Ohjelmassa:</p>
+  <p>Perinteinen talvitapahtumamme, jota on järjestetty jo vuodesta <b>1907</b> saakka! Ohjelmassa:</p>
   <ul>
     <li>Hiihtokisa kaikkien ketunmaan alueen asukkaiden kesken</li>
-    <li>Makkaraa grillistä myytävänä</li>
+    <li>Makkaranmyyntiä grillistä</li>
     <li>Lämmintä mehua ja kahvia</li>
     <li>Onnenpyörä ja arvonta</li>
   </ul>
-  <p><em>Tervetuloa kaikki, asuit ketunmaalla tai et! Koko perhe viihtyy varmasti, ihan vieressä on kulmakuntain paras mäenlaskupaikka!</em></p>
+  <p><em>Tervetuloa kaikki, asuit ketunmaalla tai et! Koko perhe viihtyy varmasti - ihan vieressä on kulmakuntain paras mäenlaskupaikka!</em></p>
 </div>
 
 <div class="event-card">
   <h3>Luistelukentän kevätsiivous</h3>
   <div class="event-date">📅 xx.4.2026 klo xx:00</div>
   <p><strong>Paikka:</strong> Luistelukentän alue</p>
-  <p>Yhdessä siivotaan luistelukentän alue kevääksi. Mukaan omat hanskat ja jätesäkkejä, harava ei haittaa. Kahvitarjoilu osallistujille.</p>
+  <p>Yhdessä siivotaan luistelukentän alue kevääksi. Mukaan omat hanskat ja jätesäkkejä, harava ei haittaa. Kahvitarjoilu
+    osallistujille.</p>
 </div>
 
 <div class="event-card">
