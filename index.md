@@ -10,6 +10,7 @@ title: Etusivu
 ## Tervetuloa Ketunmaalle!
 
 Ketunmaan - Selkäsenkylän kyläyhdistys ry on yhdistys, joka edistää kylän asukkaiden yhteisöllisyyttä ja hyvinvointia. 
+
 Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläläisten yhteistä toimintaa.
 
 ### Ajankohtaista
@@ -20,7 +21,7 @@ Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläl�
   <p>Perinteinen talvitapahtumamme järjestetään Limingan rantakylän hiihtostadionilla. Kaikki ovat tervetulleita talvitapahtumaan!
     Hiihtokisoihin voivat osallistua kaikki ketunmaalla syntyneet, ketunmaalle muuttaneet tai ketunmaalaisen puolison hankkineet : )
     Ohjelmassa hiihtokisojen lisäksi arvontaa, onnenpyörää ja paikalta voi ostaa lämpimät makkarat ja juomat.
-    Maksuksi käy mobilepay tai käteinen.
+    Maksuksi käy mobilepay tai käteinen.</p>
 </div>
 
 <div class="event-card">
