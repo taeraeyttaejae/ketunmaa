@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'fi-FI' }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+        <p>{{ site.description }}</p>
+        
+        <nav>
+          <ul>
+            <li><a href="{{ '/' | relative_url }}">Etusivu</a></li>
+            <li><a href="{{ '/yhdistys.html' | relative_url }}">Yhdistys</a></li>
+            <li><a href="{{ '/tapahtumat.html' | relative_url }}">Tapahtumat</a></li>
+            <li><a href="{{ '/galleria.html' | relative_url }}">Galleria</a></li>
+            <li><a href="{{ '/yhteystiedot.html' | relative_url }}">Yhteystiedot</a></li>
+          </ul>
+        </nav>
+      </header>
+      
+      <section>
+        {{ content }}
+      </section>
+      
+      <footer>
+        <p><small>&copy; {{ 'now' | date: "%Y" }} Ketunmaan - Selkäsenkylän kyläyhdistys ry</small></p>
+      </footer>
+    </div>
+  </body>
+</html>
