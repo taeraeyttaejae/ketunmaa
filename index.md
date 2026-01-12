@@ -7,7 +7,7 @@ title: Etusivu
   <img src="assets/images/usva.jpg" alt="Ketunmaan kyläyhdistys">
 </div>
 
-## Tervetuloa Ketunmaalle!
+## Tervetuloa Ketunmaahan!
 
 Ketunmaan - Selkäsenkylän kyläyhdistys ry on yhdistys, joka edistää kylän asukkaiden yhteisöllisyyttä ja hyvinvointia. 
 
