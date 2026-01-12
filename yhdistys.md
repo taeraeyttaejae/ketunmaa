@@ -9,18 +9,18 @@ Ketunmaan - Selkäsenkylän kyläyhdistys ry on vuonna 1996 perustettu yhdistys,
 
 ### Toiminta-ajatus
 
-Yhdistyksen tarkoitus on Ketunmaan alueen viihtyvyyden ylläpitäminen, yhteisöllisyyden edistäminen sekä yhteisten tapahtumien, kuten perinteisten Piippuhiihtojen järjestäminen.
+Yhdistyksen tarkoitus on Ketunmaan alueen viihtyvyyden ylläpitäminen, yhteisöllisyyden edistäminen sekä yhteisten tapahtumien, kuten perinteisten Piippuhiihtojen järjestäminen.<br>
 Hallituksen toimikausi on 1 vuosi.
 
 ### Hallitus
 
 Yhdistyksen asioita hoitaa vuosittain valittu hallitus:
 
-- **Puheenjohtaja:** [Iikka Konola]
-- **Varapuheenjohtaja:** [Helena Päkkilä]
-- **Sihteeri:** [Karoliina Konola]
-- **Taloudenhoitaja:** [Marjo Lehtola]
-- **Jäsenet:** [Kaisa Eilola, Miro Jaakola, Mia Kylmänen, Juha Kiviniemi, Aune Pigg]
+- **Puheenjohtaja:** Iikka Konola
+- **Varapuheenjohtaja:** Helena Päkkilä
+- **Sihteeri:** Karoliina Konola
+- **Taloudenhoitaja:** Marjo Lehtola
+- **Jäsenet:** Kaisa Eilola, Miro Jaakola, Mia Kylmänen, Juha Kiviniemi, Aune Pigg
 
 ### Jäsenyys
 
@@ -35,7 +35,7 @@ Jäsenmaksun voi maksaa tilille:
 
 ### Säännöt
 
-Yhdistyksen säännöt on hyväksytty [päivämäärä]. Säännöt määrittelevät yhdistyksen tarkoituksen, toiminnan ja hallinnon periaatteet.
+Yhdistyksen säännöt on hyväksytty 27.5.2026. Säännöt määrittelevät yhdistyksen tarkoituksen, toiminnan ja hallinnon periaatteet.
 
 ### Historia
 
