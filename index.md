@@ -16,7 +16,7 @@ Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläl�
 ### Ajankohtaista
 
 <div class="event-card">
-  <div class="event-date">📅 xx.2.2026</div>
+  <div class="event-date">📅 22.3.2026</div>
   <h3>Piippuhiihot</h3>
   <p>Perinteinen talvitapahtumamme järjestetään Limingan rantakylän hiihtostadionilla. Kaikki ovat tervetulleita talvitapahtumaan!
     Hiihtokisoihin voivat osallistua kaikki ketunmaalla syntyneet, ketunmaalle muuttaneet tai ketunmaalaisen puolison hankkineet : )
