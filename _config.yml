@@ -15,3 +15,12 @@ theme: jekyll-theme-minimal
 
 # Language
 lang: fi-FI
+
+# SEO settings
+description: Ketunmaan - Selkäsenkylän kyläyhdistys ry. Liminka, Pohjois-Pohjanmaa. Piippuhiihot ja kyläyhteisön tapahtumat.
+keywords: Ketunmaa, Selkäsenkylä, kyläyhdistys, Liminka, Piippuhiihot, kyläyhteisö
+author: Ketunmaan - Selkäsenkylän kyläyhdistys ry
+locale: fi_FI
+
+# Social media
+facebook: https://www.facebook.com/groups/1517350081891194
