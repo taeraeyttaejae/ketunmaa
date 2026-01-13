@@ -11,7 +11,7 @@ Järjestämme vuosittain useita tapahtumia, jotka tuovat kyläläiset yhteen ja 
 
 <div class="event-card">
   <h3>Piippuhiihot</h3>
-  <div class="event-date">📅 xx.2.2026 klo xx:00</div>
+  <div class="event-date">📅 22.3.2026 klo xx:00</div>
   <p><strong>Paikka:</strong>Rantakylän hiihtostadion</p>
   <p>Perinteinen talvitapahtumamme, jota on järjestetty jo vuodesta <b>1907</b> saakka! Ohjelmassa:</p>
   <ul>
