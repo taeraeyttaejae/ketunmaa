@@ -14,6 +14,12 @@ Ketunmaan - Selkäsenkylän kyläyhdistys ry on yhdistys, joka edistää kylän 
 Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläläisten yhteistä toimintaa.
 
 ### Ajankohtaista
+<div class="event-card">
+  <h3>Luistelukentän valoista</h3>
+  <p><b>Kunnasta tuli viestiä, että jos luistelukentän valot kytkee päälle normaaleiden päälläoloaikojen ulkopuolella, on ne myös ehdottomasti sammutettava lähdössä.
+     Jos valoja ei sammuta, ne palavat niin kauan että ne joku muu sammuttaa. Muistetaanpa tämä - ja kerrotaan asiasta myös kavereille!</b>
+  </p>
+</div>
 
 <div class="event-card">
   <div class="event-date">📅 22.3.2026</div>
