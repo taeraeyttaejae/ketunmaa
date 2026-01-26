@@ -16,7 +16,7 @@ Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläl�
 ### Ajankohtaista
 <div class="event-card">
   <h3>Luistelukentän valoista</h3>
-  <p><b>Kunnasta tuli viestiä, että jos luistelukentän valot kytkee päälle normaaleiden päälläoloaikojen ulkopuolella, on ne myös ehdottomasti sammutettava lähdössä.
+  <p><b>Kunnasta tuli viestiä, että luistelukentän valojen ohjaukseen ei saa mennä itse koskemaan sähköturvallisuussyistä.
      Jos valoja ei sammuta, ne palavat niin kauan että ne joku muu sammuttaa. Muistetaanpa tämä - ja kerrotaan asiasta myös kavereille!</b>
   </p>
 </div>
