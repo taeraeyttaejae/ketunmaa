@@ -8,9 +8,9 @@ title: Etusivu
 </div>
 
 ## Tervetuloa Ketunmaahan!
+Ketunmaa on Limingan kunnassa sijaitseva kylä, joka sijaitsee noin viiden kilometrin päästä kunnan keskustasta etelään. [Wikipedia](https://fi.wikipedia.org/wiki/Ketunmaa)
 
-Ketunmaan - Selkäsenkylän kyläyhdistys ry on yhdistys, joka edistää kylän asukkaiden yhteisöllisyyttä ja hyvinvointia. 
-
+Ketunmaan - Selkäsenkylän kyläyhdistys ry on yhdistys, jonka tarkoitus on edistää kylän asukkaiden yhteisöllisyyttä ja viihtyvyyttä. 
 Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläläisten yhteistä toimintaa.
 
 ### Ajankohtaista
@@ -19,6 +19,12 @@ Järjestämme joka vuosi perinteiset Piippuhiihot ja lisäksi kehitämme kyläl�
   <p><b>Kunnasta tuli viestiä, että luistelukentän valojen ohjaukseen ei saa mennä itse koskemaan sähköturvallisuussyistä.
      Jos valoja ei sammuta, ne palavat niin kauan että ne joku muu sammuttaa. Muistetaanpa tämä - ja kerrotaan asiasta myös kavereille!</b>
   </p>
+</div>
+
+<div class="event-card">
+  <div class="event-date">📅 18:00 - 20:00 23.2.2026</div>
+  <h3>Hallituksen kevätkokous</h3>
+  <p>Järjestetään hallituksen kevätkokous Limingan kirjaston 2krs monitoimiluokassa. Kaikki yhdistyksen toiminnasta kiinnostuneet ovat tervetulleita paikalle!</p>
 </div>
 
 <div class="event-card">
