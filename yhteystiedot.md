@@ -6,9 +6,9 @@ title: Yhteystiedot
 ## Yhteystiedot
 
 Kyläyhdistyksen sähköpostiosoite:<br>
-ketunmaa@proton.me<br><br>
+[ketunmaa@proton.me](mailto:ketunmaa@proton.me)<br><br>
 Yhdistyksen puheenjohtaja:<br>
-Sähköposti: [iikka.konola@gmail.com]<br>
+[iikka.konola@gmail.com](mailto:iikka.konola@gmail.com)<br>
 
 ### Somessa
 Facebook: [Ketunmaa](https://www.facebook.com/groups/1517350081891194)
