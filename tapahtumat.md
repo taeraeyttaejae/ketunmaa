@@ -11,16 +11,17 @@ Järjestämme vuosittain useita tapahtumia, jotka tuovat kyläläiset yhteen ja 
 
 <div class="event-card">
   <h3>Piippuhiihot</h3>
-  <div class="event-date">📅 22.3.2026 klo xx:00</div>
+  <div class="event-date">📅 22.3.2026 klo 11:00</div>
   <p><strong>Paikka:</strong>Rantakylän hiihtostadion</p>
   <p>Perinteinen talvitapahtumamme, jota on järjestetty jo vuodesta <b>1907</b> saakka! Ohjelmassa:</p>
   <ul>
     <li>Hiihtokisa kaikkien ketunmaan alueen asukkaiden kesken</li>
+    <li>Ilmoittautuminen alkaa klo 11:00 hiihtotornin kisakansliassa ja itse hiihdot klo 12:00</li>
     <li>Makkaranmyyntiä grillistä</li>
     <li>Lämmintä mehua ja kahvia</li>
     <li>Onnenpyörä ja arvonta</li>
   </ul>
-  <p><em>Tervetuloa kaikki, asuit ketunmaalla tai et! Koko perhe viihtyy varmasti - ihan vieressä on kulmakuntain paras mäenlaskupaikka!</em></p>
+  <p><em>Tervetuloa kaikki, asuit ketunmaalla tai et! Koko perhe viihtyy varmasti - ihan vieressä on myös kulmakuntain paras mäenlaskupaikka!</em></p>
 </div>
 
 <div class="event-card">
