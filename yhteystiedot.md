@@ -10,6 +10,8 @@ Kyläyhdistyksen sähköpostiosoite:<br>
 Yhdistyksen puheenjohtaja:<br>
 [iikka.konola@gmail.com](mailto:iikka.konola@gmail.com)<br>
 
+<br>Yhdistyksen sähköpostiosoitteita tai yhteystietoja ei saa käyttää suoramarkkinointi- tai mainostustarkoituksiin.<br>
+
 ### Somessa
 Facebook: [Ketunmaa](https://www.facebook.com/groups/1517350081891194)
 
